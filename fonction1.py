@@ -3,3 +3,5 @@ def f(x):
 
 def g(x): 
     return 0
+def f2(x):
+    return 9
