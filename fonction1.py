@@ -9,3 +9,6 @@ def f2(x):
 def f3(x):
     return 5
 
+def sqrt (x):
+    return x**(1/2)
+
